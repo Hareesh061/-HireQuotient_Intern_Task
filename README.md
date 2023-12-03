@@ -1,7 +1,7 @@
 # This is my Internship Task, given by HireQuotient Team.
 
 # Link: https://benevolent-cannoli-4abeba.netlify.app
-Node: (I am done how much possible in the given time line.)
+Note: (I am done how much possible in the given time line.)
 As part of the task I need to complete any one Assignment/Task based on my interests.
 
 **Assignment 1 (More on website design & development):**
