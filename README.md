@@ -33,6 +33,13 @@ The key points of the code are given below:
 
 10. **React Bootstrap:** The code utilizes the React Bootstrap library for styling and UI components, such as `Table`, `InputGroup`, `FormControl`, `Button`, and `Form.Check`.
 
+    **Fig: Admin Dashboard**
+
+
+
+    <img width="956" alt="image" src="https://github.com/Hareesh061/-HireQuotient_Intern_Task/assets/90563881/b8fd72d9-d3e3-4dae-a5aa-293a7b8575d8">
+
+
 Overall, this code provides a user-friendly interface for managing and interacting with a list of users, offering features for searching, editing, and deleting user records.
 
 
